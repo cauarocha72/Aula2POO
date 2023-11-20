@@ -8,10 +8,10 @@ class Person {
     }
    
 }
-let p1 = new Person ('hjjfdsi')
-let p2 = new Person ('jsdhgjas')
-let p3 = new Person ('kfdsjkfji')
-let p4 = new Person ('fasdhfsa','123456789')
+let p1 = new Person ('João')
+let p2 = new Person ('Paulo')
+let p3 = new Person ('Matheus')
+let p4 = new Person ('Yasmin')
 
 class Aluno extends Person{
 
